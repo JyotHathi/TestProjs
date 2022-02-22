@@ -1,6 +1,3 @@
-// Import stylesheets
-import './style.css';
-
 // Write Javascript code!
 document.getElementById('app1').addEventListener('wheel', (e) => {
   e.preventDefault();
