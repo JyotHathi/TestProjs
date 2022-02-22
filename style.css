@@ -1,0 +1,10 @@
+h1,
+h2 {
+  font-family: Lato;
+}
+
+#app1 {
+  height: 300px;
+  width: 300px;
+  background-color: aquamarine;
+}
